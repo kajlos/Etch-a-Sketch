@@ -51,6 +51,11 @@ footer{
     display: flex;
     width: 100%;
     justify-content: center;
-    align-items:flex-start ;
+    align-items:center ;
 }
-
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
